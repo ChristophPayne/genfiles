@@ -1,0 +1,51 @@
+id,Item_1,Sale_Price_1,Item_2,Sale_Price_2,Item_3,Sale_Price_3,Purchase_Date,Purchase_Warranty,Payment_Method
+1001,Bike,8,Chair,1,Chair,10,09/26/24,No,Cash
+1002,Chair,8,Desk,5,Toaster,9,12/06/24,Yes – 1 Year,Cash
+1003,Piano,7,Chair,6,Desk,8,05/31/24,No,Cash
+1004,Shelf,2,Lamp,4,Toaster,2,02/16/24,Yes – 1 Year,Cash
+1005,Toaster,4,Lamp,3,Toaster,9,10/08/24,Yes – 2 Year,Check
+1006,Lamp,1,Bike,2,Lamp,4,10/01/24,No,Card
+1007,Chair,1,Bike,4,Chair,7,11/03/24,Yes – 1 Year,Card
+1008,Lamp,8,Desk,8,Toaster,8,01/29/24,No,Card
+1009,Chair,8,Chair,7,Table,5,02/13/24,Yes – 3 Year,Cash
+1010,Shelf,8,Chair,3,Toaster,5,01/07/24,Yes – 1 Year,Card
+1011,Heater,6,Desk,1,Desk,8,02/25/24,No,Card
+1012,Shelf,2,Bike,2,Chair,5,01/10/24,Yes – 1 Year,Card
+1013,Bike,3,Desk,1,Chair,5,11/30/24,No,Card
+1014,Table,10,Toaster,1,Lamp,9,08/17/24,No,Card
+1015,Mailbox,5,Toaster,10,Lamp,3,05/20/24,Yes – 2 Year,Card
+1016,Desk,1,Toaster,6,Desk,7,08/17/24,No,Cash
+1017,Bike,2,Table,2,Toaster,4,04/20/24,No,Card
+1018,Shelf,7,Table,0,Toaster,7,12/06/24,No,Card
+1019,Desk,8,Mailbox,1,Mailbox,5,06/01/24,Yes – 1 Year,Card
+1020,Bike,4,Mailbox,9,Shelf,0,12/13/24,No,Card
+1021,Desk,3,Table,5,Desk,1,10/28/24,No,Cash
+1022,Mailbox,2,Bike,7,Bike,7,11/07/24,No,Cash
+1023,Mailbox,2,Toaster,6,Mailbox,4,07/17/24,Yes – 1 Year,Cash
+1024,Chair,1,Toaster,4,Lamp,5,03/23/24,No,Cash
+1025,Chair,9,Toaster,7,Toaster,2,04/28/24,No,Card
+1026,Chair,4,Toaster,5,Toaster,2,08/14/24,Yes – 2 Year,Card
+1027,Desk,5,Chair,2,Bike,3,09/03/24,No,Check
+1028,Piano,2,Heater,2,Lamp,5,07/23/24,No,Card
+1029,Shelf,4,Toaster,5,Bike,3,07/14/24,Yes – 3 Year,Card
+1030,Heater,5,Mailbox,1,Desk,2,02/26/24,No,Card
+1031,Desk,8,Bike,2,Shelf,6,04/04/24,Yes – 1 Year,Card
+1032,Bike,0,Heater,0,Heater,10,04/03/24,No,Card
+1033,Table,4,Lamp,3,Chair,3,08/07/24,Yes – 1 Year,Card
+1034,Shelf,2,Mailbox,9,Mailbox,8,06/25/24,No,Card
+1035,Mailbox,2,Chair,7,Piano,1,11/21/24,No,Card
+1036,Bike,1,Desk,8,Chair,1,12/06/24,Yes – 2 Year,Card
+1037,Bike,3,Toaster,5,Shelf,5,09/19/24,No,Card
+1038,Desk,3,Shelf,6,Chair,3,07/08/24,No,Card
+1039,Toaster,8,Toaster,9,Lamp,2,07/10/24,Yes – 2 Year,Card
+1040,Bike,5,Table,8,Desk,8,12/20/24,No,Card
+1041,Table,7,Desk,7,Chair,3,05/19/24,No,Card
+1042,Piano,5,Bike,2,Piano,5,10/13/24,No,Card
+1043,Toaster,9,Table,7,Shelf,5,10/14/24,Yes – 2 Year,Cash
+1044,Table,4,Bike,2,Chair,3,08/10/24,Yes – 3 Year,Cash
+1045,Bike,9,Shelf,3,Lamp,7,05/30/24,Yes – 2 Year,Card
+1046,Toaster,6,Piano,3,Desk,9,09/24/24,No,Card
+1047,Piano,5,Desk,7,Table,7,10/25/24,No,Card
+1048,Chair,5,Chair,4,Bike,10,09/14/24,Yes – 2 Year,Cash
+1049,Desk,4,Desk,0,Bike,3,01/23/24,No,Cash
+1050,Toaster,8,Chair,7,Toaster,10,09/20/24,Yes – 1 Year,Card
